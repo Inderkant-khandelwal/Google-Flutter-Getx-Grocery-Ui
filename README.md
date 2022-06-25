@@ -19,7 +19,7 @@
 ![Home Page](screenshots/home_screen.jpeg)
 
 # ** `Side Drawer` **
-![Drawer](screenshots/side_drawer.jpeg)
+![Drawer](screenshots/side_drawer_screen.jpeg)
 
 # ** `Product List` **
 ![Product Page](screenshots/product_list_screen.jpeg)
