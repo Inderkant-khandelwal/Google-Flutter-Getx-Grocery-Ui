@@ -37,5 +37,5 @@
 ![Grid List Page](screenshots/grid_list.jpeg)
 
 # ** `Subscription Screen` **
-![Subscription Page](screenshots/subscripttion_screen.jpeg)
+![Subscription Page](screenshots/subscription_screen.jpeg)
 
