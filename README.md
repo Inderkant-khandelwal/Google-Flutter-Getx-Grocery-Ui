@@ -1,37 +1,41 @@
 
 # **Google Flutter with Getx Ui App by `Inderkant`**
+# ** Please Help Someone by Food and Cloths **
 # **Download the source code and try to learn something from this code Happy Coding _-_**
 # **This will be the Paid Ui and the amount is very affordable **
 ## Below are the `Screen shot of` ** Project **
 
 
 # ** `Sign Up Page` **
-![Signup Page](screenshot/2.jpeg)
+![Signup Page](screenshots/signup_screen.jpeg)
 
 # ** `Login Page` **
-![Login](screenshot/3.jpeg)
+![Login](screenshots/login_screen.jpeg)
 
-# ** `Forgot Password Page` **
-![Forgot Password](screenshot/4.jpeg)
+# ** `Otp Page` **
+![Forgot Password](screenshots/otp_screen.jpeg)
 
 # ** `Home Page` **
-![Home](screenshot/5.jpeg)
+![Home](screenshots/home_screen.jpeg)
 
 # ** `Side Drawer` **
-![Drawer](screenshot/6.jpeg)
+![Drawer](screenshots/side_drawer.jpeg)
 
-# ** `Add Note Page` **
-![Add Note](screenshot/8.jpeg)
+# ** `Product List` **
+![Add Note](screenshots/product_list_screen.jpeg)
 
-# ** `Update Note Page` **
-![Update Note](screenshot/9.jpeg)
+# ** `Single Product` **
+![Update Note](screenshots/single_product.jpeg)
 
-# ** `Details Note Page - 1 ` **
-![Expanded Tile Details](screenshot/10.jpeg)
+# ** `Order Summary` **
+![Expanded Tile Details](screenshots/order_summery.jpeg)
 
-# ** `Details Note Page - 2 ` **
-![Expanded Tile Details](screenshot/11.jpeg)
+# ** `Date Screen` **
+![Expanded Tile Details](screenshots/date_screen.jpeg)
 
-# ** `Details Note Page - 3 ` **
-![Expanded Tile Details](screenshot/12.jpeg)
+# ** `Grid List` **
+![Expanded Tile Details](screenshots/grid_list.jpeg)
+
+# ** `Subscription Screen` **
+![Expanded Tile Details](screenshots/subscripttion_screen.jpeg)
 
