@@ -1,6 +1,6 @@
 
 # **Google Flutter with Getx Ui App by `Inderkant`**
-# ** Please Help Someone by Food and Cloths **
+# ** Please Help Someone by Food and Clothes **
 # **Download the source code and try to learn something from this code Happy Coding _-_**
 # **This will be the Paid Ui and the amount is very affordable **
 ## Below are the `Screen shot of` ** Project **
